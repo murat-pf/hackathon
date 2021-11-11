@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "Sale",
+    "type": "Studio",
+    "verifed": true,
+    "price": 2575000,
+    "location": "Marina / Dubai",
+    "bedroom": 1,
+    "area": 1250
+  },
+  {
+    "id": 2,
+    "category": "Sale",
+    "type": "Studio",
+    "verifed": true,
+    "price": 2595000,
+    "location": "Marina / Dubai",
+    "bedroom": 1,
+    "area": 1285
+  },
+  {
+    "id": 3,
+    "category": "Sale",
+    "type": "Penthouse",
+    "verifed": true,
+    "price": 3550000,
+    "location": "Media City / Dubai",
+    "bedroom": 2,
+    "area": 2250
+  },
+  {
+    "id": 4,
+    "category": "Sale",
+    "type": "Villa",
+    "verifed": false,
+    "price": 7500000,
+    "location": "Jumeirah / Dubai",
+    "bedroom": 3,
+    "area": 5750
+  },
+  {
+    "id": 5,
+    "category": "Sale",
+    "type": "Villa",
+    "verifed": true,
+    "price": 7850000,
+    "location": "Jumeirah / Dubai",
+    "bedroom": 4,
+    "area": 6350
+  },
+  {
+    "id": 6,
+    "category": "Sale",
+    "type": "Villa",
+    "verifed": true,
+    "price": 7850000,
+    "location": "Jumeirah / Dubai",
+    "bedroom": 4,
+    "area": 6350
+  },
+  {
+    "id": 7,
+    "category": "Sale",
+    "type": "Apartment",
+    "verifed": true,
+    "price": 3150000,
+    "location": "Marina / Dubai",
+    "bedroom": 2,
+    "area": 2350
+  },
+  {
+    "id": 8,
+    "category": "Sale",
+    "type": "Apartment",
+    "verifed": true,
+    "price": 3950000,
+    "location": "Jumeirah / Dubai",
+    "bedroom": 3,
+    "area": 3350
+  },
+  {
+    "id": 9,
+    "category": "Sale",
+    "type": "Studio",
+    "verifed": false,
+    "price": 2450000,
+    "location": "Media City / Dubai",
+    "bedroom": 1,
+    "area": 1350
+  },
+  {
+    "id": 10,
+    "category": "Sale",
+    "type": "Apartment",
+    "verifed": false,
+    "price": 5250000,
+    "location": "Marina / Dubai",
+    "bedroom": 3,
+    "area": 4300
+  }
+]
