@@ -5,7 +5,7 @@
     "type": "Studio",
     "verified": true,
     "price": 2575000,
-    "location": "Marina / Dubai",
+    "location": "Dubai Marina / Dubai",
     "bedroom": 1,
     "area": 1250
   },
@@ -15,7 +15,7 @@
     "type": "Studio",
     "verified": true,
     "price": 2595000,
-    "location": "Marina / Dubai",
+    "location": "Dubai Marina / Dubai",
     "bedroom": 1,
     "area": 1285
   },
@@ -65,7 +65,7 @@
     "type": "Apartment",
     "verified": true,
     "price": 3150000,
-    "location": "Marina / Dubai",
+    "location": "Dubai Marina / Dubai",
     "bedroom": 2,
     "area": 2350
   },
@@ -95,7 +95,7 @@
     "type": "Apartment",
     "verified": false,
     "price": 5250000,
-    "location": "Marina / Dubai",
+    "location": "Dubai Marina / Dubai",
     "bedroom": 3,
     "area": 4300
   }
