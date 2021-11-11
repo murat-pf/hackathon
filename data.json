@@ -7,7 +7,9 @@
     "price": 2575000,
     "location": "Dubai Marina / Dubai",
     "bedroom": 1,
-    "area": 1250
+    "area": 1250,
+    "matchedLabels": ["3km", "city center", "night life"],
+    "unMatchedLabels": ["baby", "kids", "pet", "grand parents", "suburb"]
   },
   {
     "id": 2,
@@ -17,7 +19,9 @@
     "price": 2595000,
     "location": "Dubai Marina / Dubai",
     "bedroom": 1,
-    "area": 1285
+    "area": 1285,
+    "matchedLabels": ["3km", "city center", "night life"],
+    "unMatchedLabels": ["baby", "kids", "pet", "grand parents", "suburb"]
   },
   {
     "id": 3,
@@ -27,7 +31,9 @@
     "price": 3550000,
     "location": "Media City / Dubai",
     "bedroom": 2,
-    "area": 2250
+    "area": 2250,
+    "matchedLabels": ["5km", "city center", "garden", "park"],
+    "unMatchedLabels": ["baby", "kids", "pet", "night life", "grand parents", "suburb"]
   },
   {
     "id": 4,
@@ -37,7 +43,9 @@
     "price": 7500000,
     "location": "Jumeirah / Dubai",
     "bedroom": 3,
-    "area": 5750
+    "area": 5750,
+    "matchedLabels": ["10km", "baby", "kids", "pet", "suburb"],
+    "unMatchedLabels": ["grand parents", "city center", "night life"]
   },
   {
     "id": 5,
@@ -47,7 +55,9 @@
     "price": 7850000,
     "location": "Jumeirah / Dubai",
     "bedroom": 4,
-    "area": 6350
+    "area": 6350,
+    "matchedLabels": ["10km", "baby", "kids", "pet", "suburb"],
+    "unMatchedLabels": ["grand parents", "city center", "night life"]
   },
   {
     "id": 6,
@@ -57,7 +67,9 @@
     "price": 7850000,
     "location": "Jumeirah / Dubai",
     "bedroom": 4,
-    "area": 6350
+    "area": 6350,
+    "matchedLabels": ["10km", "baby", "kids", "pet", "suburb"],
+    "unMatchedLabels": ["grand parents", "city center", "night life"]
   },
   {
     "id": 7,
@@ -67,7 +79,9 @@
     "price": 3150000,
     "location": "Dubai Marina / Dubai",
     "bedroom": 2,
-    "area": 2350
+    "area": 2350,
+    "matchedLabels": ["3km", "city center", "night life", "park", "pet"],
+    "unMatchedLabels": ["baby", "kids", "pet", "grand parents", "suburb"]
   },
   {
     "id": 8,
@@ -77,7 +91,9 @@
     "price": 3950000,
     "location": "Jumeirah / Dubai",
     "bedroom": 3,
-    "area": 3350
+    "area": 3350,
+    "matchedLabels": ["10km", "city center", "kids", "park", "pet"],
+    "unMatchedLabels": ["baby", "kids", "night life", "pet", "grand parents", "suburb"]
   },
   {
     "id": 9,
@@ -87,7 +103,9 @@
     "price": 2450000,
     "location": "Media City / Dubai",
     "bedroom": 1,
-    "area": 1350
+    "area": 1350,
+    "matchedLabels": ["5km", "city center", "kids", "park", "pet"],
+    "unMatchedLabels": ["baby", "kids", "night life", "pet", "grand parents", "suburb"]
   },
   {
     "id": 10,
@@ -97,6 +115,8 @@
     "price": 5250000,
     "location": "Dubai Marina / Dubai",
     "bedroom": 3,
-    "area": 4300
+    "area": 4300,
+    "matchedLabels": ["3km", "city center", "baby", "park"],
+    "unMatchedLabels": ["baby", "kids", "night life", "pet", "grand parents", "suburb"]
   }
 ]
